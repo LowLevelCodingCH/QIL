@@ -14,7 +14,8 @@
   </p>
 </div>
 
-
+<br />
+<a href="DOCS.md">Docs</a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
