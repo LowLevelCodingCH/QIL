@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LowLevelCodingCH/QIL">
-    ![QIL](https://github.com/LowLevelCodingCH/QIL/assets/135059709/c73b8e19-af85-4984-ab1d-33cfed23d69f) 
+    <img src="QIL.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">QIL or Quill</h3>
